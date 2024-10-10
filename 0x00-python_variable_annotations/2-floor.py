@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-import math
 '''
-floors a float
+u guys are practically asking for it
 '''
 
 
-def floor(n: float) -> int:
+def floor(a: float) -> int:
     '''
-    flooring float function
+    bla bla bla bla bla
     '''
-    return math.floor(n)
+    return int(a)
